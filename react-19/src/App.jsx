@@ -6,7 +6,7 @@ import Example3 from "./components/use-hook-context/Final";
 import Example1 from "./components/use-hook-data-fetching/Final";
 import Example5 from "./components/useFormStatus/Final";
 import Example2 from "./components/use-hook-promise/Final";
-import Example6 from "./components/useFormState/Starter";
+import Example6 from "./components/useFormState/Final";
 import Example7 from "./components/useOptimistic/Starter";
 
 export default function App() {
