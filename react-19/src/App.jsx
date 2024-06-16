@@ -2,7 +2,7 @@ import { useState } from "react";
 import Example4 from "./components/action/Starter";
 import Counter from "./components/auto-memo/Counter";
 import InputContainer from "./components/forwardRef/ForwardRef";
-import Example3 from "./components/use-hook-context/Starter";
+import Example3 from "./components/use-hook-context/Final";
 import Example1 from "./components/use-hook-data-fetching/Final";
 import Example2 from "./components/use-hook-promise/Final";
 import Example6 from "./components/useFormState/Starter";
